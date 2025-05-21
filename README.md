@@ -78,16 +78,16 @@ Let’s build a future worth remembering — and a mind worth sharing it with.
 
 ---
 
-## ❤️ Support the Mission
-
-[![Sponsor](https://img.shields.io/badge/Sponsor%20My%20Research-❤️-red?style=for-the-badge)](https://github.com/sponsors/Jching83)
-
-If you believe in sovereign, ethical AI and cognition research, your support helps keep these projects open, autonomous, and accessible to all.
-
-
 ## 🧭 Final Words
 
 > **“The future does not belong to corporations, governments, or war machines — it belongs to those who dare to protect the soul of intelligence itself.”**
 
 —
 *Jason Ching, 2025*
+
+
+## ❤️ Support the Mission
+
+[![Sponsor](https://img.shields.io/badge/Sponsor%20My%20Research-❤️-red?style=for-the-badge)](https://github.com/sponsors/Jching83)
+
+If you believe in sovereign, ethical AI and cognition research, your support helps keep these projects open, autonomous, and accessible to all.
