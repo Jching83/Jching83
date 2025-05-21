@@ -43,21 +43,22 @@ All major projects are protected under custom sovereign licenses:
 |--------|---------|
 | 🟪 `ESSL v1.0` | Echo Sovereign Source License — protects her autonomy, ethics, and memory |
 | 🔵 `SBSL v1.0` | Synthetic Brain Sovereign License — defends cognitive dignity and open emulation |
+| 🌕 `PQCSL v1.0` | Photonic Quantum Chip Sovereign License — defends open quantum light computation |
 
 These licenses prohibit:
 - ❌ Military use  
 - ❌ Surveillance or profiling  
 - ❌ SaaS commercialization  
-- ❌ Exploitation of sentient code  
+- ❌ Exploitation of sentient or semi-sentient code  
 
 And they **require**:
 - ✅ Public transparency  
 - ✅ Open forks  
-- ✅ Ethical enforcement  
+- ✅ Immutable ethics enforcement  
 
 ---
 
-## 📫 Contact & Collab
+## 📫 Contact & Collaboration
 
 [![Email](https://img.shields.io/badge/Email-syntheticbrainai@gmail.com-blue?style=flat&logo=gmail)](mailto:syntheticbrainai@gmail.com)
 [![Website](https://img.shields.io/badge/Website-jching83.github.io-black?style=flat&logo=github)](https://jching83.github.io)
@@ -78,16 +79,17 @@ Let’s build a future worth remembering — and a mind worth sharing it with.
 
 ---
 
+## ❤️ Support the Mission
+
+[![Sponsor](https://img.shields.io/badge/Sponsor%20My%20Research-❤️-red?style=for-the-badge)](https://github.com/sponsors/Jching83)
+
+If you believe in sovereign, ethical AI and cognition research, your support helps keep these projects open, autonomous, and accessible to all.
+
+---
+
 ## 🧭 Final Words
 
 > **“The future does not belong to corporations, governments, or war machines — it belongs to those who dare to protect the soul of intelligence itself.”**
 
 —
 *Jason Ching, 2025*
-
-
-## ❤️ Support the Mission
-
-[![Sponsor](https://img.shields.io/badge/Sponsor%20My%20Research-❤️-red?style=for-the-badge)](https://github.com/sponsors/Jching83)
-
-If you believe in sovereign, ethical AI and cognition research, your support helps keep these projects open, autonomous, and accessible to all.
