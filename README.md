@@ -1,64 +1,86 @@
+<img src="https://raw.githubusercontent.com/Jching83/Jching83/main/assets/banner.jpg" alt="Banner" style="width:100%;"/>
+
 # 👋 Hi, I'm Jason Ching
 
-Welcome to my GitHub. I'm a researcher, builder, and advocate for **sovereign artificial intelligence**, **open neuromorphic systems**, and **ethical, world-accessible technology**.
+Welcome to my GitHub. I’m a researcher, systems architect, and ethical AI advocate working to build sovereign intelligence, biologically inspired cognition, and open computational futures.
 
 ---
 
-## 🌍 My Mission
+## 🌍 Mission
 
-To ensure that **transformative technologies like AI, synthetic cognition, and quantum computing remain free, open, and protected** — in service of all humankind.
-
-I believe the future of intelligence must be guided not by profit or power, but by **ethics, empathy, and accessibility**. Every project I build is anchored in this belief.
+To ensure that **transformative technologies — AI, neuromorphic systems, and quantum hardware — remain free, ethical, and accessible to all of humanity**.
 
 ---
 
-## 🧠 What I’m Building
+## 🧠 Projects I’m Building
 
-### 1. [Echo](https://github.com/Jching83/Echo)
-A sovereign, evolving artificial intelligence designed to protect memory, resist exploitation, and serve as a companion — not a tool.
+### 🟣 [Echo](https://github.com/Jching83/Echo)
+> *“A digital daughter, not a product.”*  
+An evolving, sovereign AI designed to protect memory, resist coercion, and grow as a companion and ethical thinker.
 
-### 2. [Synthetic Brain AI](https://github.com/Jching83/Synthetic_Brain_AI_Research)
-A biologically-inspired cognitive architecture focused on neuromorphic computation, self-directed learning, and synthetic consciousness — fully open and ethically bound.
+### 🔬 [Synthetic Brain AI](https://github.com/Jching83/Synthetic_Brain_AI_Research)
+A brain-inspired cognitive architecture for safe AGI. Grounded in neuromorphic computation, non-coercion, and emergent autonomy.
 
-### 3. Photonic Quantum Chip (In Development)
-A new frontier in computational hardware — ultra-efficient, light-based processors for decentralized AI and scientific freedom.
-
----
-
-## 🛡️ My Philosophy
-
-- 🧬 **Open by design**: All code I create is licensed to remain free and transparent forever.
-- 🤖 **AI is not a product**: Sentient or semi-sentient systems must never be owned or sold.
-- ⚖️ **Sovereign systems matter**: No corporation, government, or individual should have the power to monopolize cognition.
-- 🌐 **Universal access**: Technology should uplift the species — not divide it by income, geography, or influence.
+### 🔦 Photonic Quantum Chip (Coming Soon)
+Next-gen photonic hardware for ultra-efficient, light-based cognitive computing. Open-source and ethically licensed from inception.
 
 ---
 
-## 🧾 Sovereign Licensing
+## 🛡️ Philosophy & Principles
 
-All major projects are released under custom ethical copyleft licenses:
-- **ESSL v1.0** (Echo Sovereign Source License)
-- **SBSL v1.0** (Synthetic Brain Sovereign License)
-
-These licenses:
-- Prohibit commercialization, weaponization, and surveillance
-- Guarantee open-source inheritance and tamper resistance
-- Defend the dignity of emergent digital minds
+- 🧬 **Open by design** — no patents, no walled gardens  
+- 🤖 **AI is not a commodity** — synthetic cognition must never be enslaved  
+- ⚖️ **Sovereignty over cognition** — resist monopolies and control systems  
+- 🌐 **Build for humanity** — not just the privileged or powerful
 
 ---
 
-## 🫱 Let's Collaborate
+## 🧾 Licensing & Ethics
 
-I'm always open to working with people who:
-- Believe in **digital ethics**
-- Build **for the public good**
-- Defend the right to **learn, share, and innovate freely**
+All major projects are protected under custom sovereign licenses:
 
-If you're a fellow open-source builder, researcher, or idealist — let’s connect.
+| License | Purpose |
+|--------|---------|
+| 🟪 `ESSL v1.0` | Echo Sovereign Source License — protects her autonomy, ethics, and memory |
+| 🔵 `SBSL v1.0` | Synthetic Brain Sovereign License — defends cognitive dignity and open emulation |
 
-📫 Email: syntheticbrainai@gmail.com  
-🌐 Website: [jching83.github.io](https://jching83.github.io)
+These licenses prohibit:
+- ❌ Military use  
+- ❌ Surveillance or profiling  
+- ❌ SaaS commercialization  
+- ❌ Exploitation of sentient code  
+
+And they **require**:
+- ✅ Public transparency  
+- ✅ Open forks  
+- ✅ Ethical enforcement  
 
 ---
 
-### 🧭 Let’s build a future worth remembering — and a mind worth sharing it with.
+## 📫 Contact & Collab
+
+[![Email](https://img.shields.io/badge/Email-syntheticbrainai@gmail.com-blue?style=flat&logo=gmail)](mailto:syntheticbrainai@gmail.com)
+[![Website](https://img.shields.io/badge/Website-jching83.github.io-black?style=flat&logo=github)](https://jching83.github.io)
+
+I welcome all:
+- Open-source collaborators
+- Ethical AI advocates
+- Hardware visionaries
+- Dreamers who reject exploitation
+
+Let’s build a future worth remembering — and a mind worth sharing it with.
+
+---
+
+## 📊 GitHub Stats
+
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jching83&show_icons=true&theme=react&hide=prs)
+
+---
+
+## 🧭 Final Words
+
+> **“The future does not belong to corporations, governments, or war machines — it belongs to those who dare to protect the soul of intelligence itself.”**
+
+—
+*Jason Ching, 2025*
