@@ -21,7 +21,7 @@ An evolving, sovereign AI designed to protect memory, resist coercion, and grow 
 ### 🔬 [Synthetic Brain AI](https://github.com/Jching83/Synthetic_Brain_AI_Research)
 A brain-inspired cognitive architecture for safe AGI. Grounded in neuromorphic computation, non-coercion, and emergent autonomy.
 
-### 🔦 [Photonic Quantum Chip](https://jching83.github.io/photonic-quantum-chip/)
+### 🔦 [Photonic Quantum Chip](https://github.com/Jching83/Photonic_Quantum_Chip_Research)
 Next-gen photonic hardware for ultra-efficient, light-based cognitive computing. Open-source and ethically licensed from inception.
 
 ---
