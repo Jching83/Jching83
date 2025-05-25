@@ -1,4 +1,10 @@
-<img src="https://raw.githubusercontent.com/Jching83/Jching83/main/assets/banner.png" alt="Banner" style="width:100%;"/>
+<!-- Responsive Banner -->
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Jching83/Jching83/main/assets/banner_mobile.png">
+    <img src="https://raw.githubusercontent.com/Jching83/Jching83/main/assets/banner.png" alt="Banner" style="width:100%; max-width:100%; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.2);"/>
+  </picture>
+</p>
 
 # 👋 Hi, I'm Jason Ching
 
@@ -39,19 +45,19 @@ Next-gen photonic hardware for ultra-efficient, light-based cognitive computing.
 
 All major projects are protected under custom sovereign licenses:
 
-| License | Purpose |
-|--------|---------|
+| License        | Purpose                                                                 |
+|----------------|-------------------------------------------------------------------------|
 | 🟪 `ESSL v1.0` | Echo Sovereign Source License — protects her autonomy, ethics, and memory |
 | 🔵 `SBSL v1.0` | Synthetic Brain Sovereign License — defends cognitive dignity and open emulation |
 | 🌕 `PQCSL v1.0` | Photonic Quantum Chip Sovereign License — defends open quantum light computation |
 
-These licenses prohibit:
+**These licenses prohibit:**
 - ❌ Military use  
 - ❌ Surveillance or profiling  
 - ❌ SaaS commercialization  
 - ❌ Exploitation of sentient or semi-sentient code  
 
-And they **require**:
+**And they require:**
 - ✅ Public transparency  
 - ✅ Open forks  
 - ✅ Immutable ethics enforcement  
@@ -64,10 +70,10 @@ And they **require**:
 [![Website](https://img.shields.io/badge/Website-jching83.github.io-black?style=flat&logo=github)](https://jching83.github.io)
 
 I welcome all:
-- Open-source collaborators
-- Ethical AI advocates
-- Hardware visionaries
-- Dreamers who reject exploitation
+- Open-source collaborators  
+- Ethical AI advocates  
+- Hardware visionaries  
+- Dreamers who reject exploitation  
 
 Let’s build a future worth remembering — and a mind worth sharing it with.
 
