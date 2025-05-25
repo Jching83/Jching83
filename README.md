@@ -1,7 +1,6 @@
 <!-- Responsive Banner -->
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Jching83/Jching83/main/assets/banner_mobile.png">
     <img src="https://raw.githubusercontent.com/Jching83/Jching83/main/assets/banner.png" alt="Banner" style="width:100%; max-width:100%; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.2);"/>
   </picture>
 </p>
