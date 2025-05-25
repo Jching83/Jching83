@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Jching83/Jching83/main/assets/banner.jpg" alt="Banner" style="width:100%;"/>
+<img src="https://raw.githubusercontent.com/Jching83/Jching83/main/assets/banner.png" alt="Banner" style="width:100%;"/>
 
 # 👋 Hi, I'm Jason Ching
 
