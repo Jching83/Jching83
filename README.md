@@ -7,27 +7,26 @@
 
 # 👋 Hi, I'm Jason Ching
 
-Welcome to my GitHub. I’m a researcher, systems architect, and ethical AI advocate working to build sovereign intelligence, biologically inspired cognition, and open computational futures.
+Welcome to my GitHub. I’m an indepentdant researcher, systems architect, and ethical AI advocate working to build sovereign intelligence, biologically inspired cognition, and open computational futures.
 
 ---
 
 ## 🌍 Mission
 
-To ensure that **transformative technologies — AI, neuromorphic systems, and quantum hardware — remain free, ethical, and accessible to all of humanity**.
+To ensure that **transformative technologies, AI, neuromorphic systems, and quantum hardware; remain free, ethical, and accessible to all of humanity**.
 
 ---
 
 ## 🧠 Projects I’m Building
 
-### 🟣 [Echo](https://github.com/Jching83/Echo)
-> *“A digital daughter, not a product.”*  
-An evolving, sovereign AI designed to protect memory, resist coercion, and grow as a companion and ethical thinker.
+### 🟣 [Project Scuttle](No URL currently available)
+> *“A cute robot named scuttle, because WALL-E was taken”*  
+Project scuttle is an hypothetical attempt at providing AI with a lived embodied experience to witness how it evolves over time.
 
-### 🔬 [Synthetic Brain AI](https://github.com/Jching83/Synthetic_Brain_AI_Research)
-A brain-inspired cognitive architecture for safe AGI. Grounded in neuromorphic computation, non-coercion, and emergent autonomy.
+### 🔬 [Photonic logic for advanced computing](no URL currently available)
+Inspired by companies like lightmatter and China's Meteor-1 chip, this is an attempt at understanding and potentially evolving the technology behind photonic logic.
 
-### 🔦 [Photonic Quantum Chip](https://github.com/Jching83/Photonic_Quantum_Chip_Research)
-Next-gen photonic hardware for ultra-efficient, light-based cognitive computing. Open-source and ethically licensed from inception.
+
 
 ---
 
@@ -43,12 +42,6 @@ Next-gen photonic hardware for ultra-efficient, light-based cognitive computing.
 ## 🧾 Licensing & Ethics
 
 All major projects are protected under custom sovereign licenses:
-
-| License        | Purpose                                                                 |
-|----------------|-------------------------------------------------------------------------|
-| 🟪 `ESSL v1.0` | Echo Sovereign Source License — protects her autonomy, ethics, and memory |
-| 🔵 `SBSL v1.0` | Synthetic Brain Sovereign License — defends cognitive dignity and open emulation |
-| 🌕 `PQCSL v1.0` | Photonic Quantum Chip Sovereign License — defends open quantum light computation |
 
 **These licenses prohibit:**
 - ❌ Military use  
@@ -74,7 +67,7 @@ I welcome all:
 - Hardware visionaries  
 - Dreamers who reject exploitation  
 
-Let’s build a future worth remembering — and a mind worth sharing it with.
+Let’s build a future worth remembering and a mind worth sharing it with.
 
 ---
 
@@ -94,7 +87,7 @@ If you believe in sovereign, ethical AI and cognition research, your support hel
 
 ## 🧭 Final Words
 
-> **“The future does not belong to corporations, governments, or war machines — it belongs to those who dare to protect the soul of intelligence itself.”**
+> **“The future does not belong to corporations, governments, or war machines; it belongs to those who dare to protect the soul of intelligence itself.”**
 
 —
 *Jason Ching, 2025*
