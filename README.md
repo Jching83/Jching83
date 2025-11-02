@@ -11,7 +11,7 @@ Welcome to my GitHub. I’m an indepentdant researcher, systems architect, and e
 
 ---
 
-## 🌍 Mission
+## Mission
 
 To ensure that **transformative technologies, AI, neuromorphic systems, and quantum hardware; remain free, ethical, and accessible to all of humanity**.
 
@@ -19,29 +19,25 @@ To ensure that **transformative technologies, AI, neuromorphic systems, and quan
 
 ## 🧠 Projects I’m Building
 
-### 🟣 [Project Scuttle](No URL currently available)
+### [Project Scuttle](No URL currently available)
 > *“A cute robot named scuttle, because WALL-E was taken”*  
 Project scuttle is an hypothetical attempt at providing AI with a lived embodied experience to witness how it evolves over time.
 
-### 🔬 [Photonic logic for advanced computing](no URL currently available)
+### [Photonic logic for advanced computing](no URL currently available)
 Inspired by companies like lightmatter and China's Meteor-1 chip, this is an attempt at understanding and potentially evolving the technology behind photonic logic.
 
 
 
 ---
 
-## 🛡️ Philosophy & Principles
+## Philosophy & Principles
 
-- 🧬 **Open by design** — no patents, no walled gardens  
-- 🤖 **AI is not a commodity** — synthetic cognition must never be enslaved  
-- ⚖️ **Sovereignty over cognition** — resist monopolies and control systems  
-- 🌐 **Build for humanity** — not just the privileged or powerful
+- **Open by design** — no patents, no walled gardens  
+- **AI is not a commodity** — synthetic cognition must never be enslaved  
+- **Sovereignty over cognition** — resist monopolies and control systems  
+- **Build for humanity** — not just the privileged or powerful
 
 ---
-
-## 🧾 Licensing & Ethics
-
-All major projects are protected under custom sovereign licenses:
 
 **These licenses prohibit:**
 - ❌ Military use  
