@@ -20,8 +20,8 @@ To ensure that **transformative technologies, AI, neuromorphic systems, and quan
 ## 🧠 Projects I’m Building
 
 ### [Project Scuttle](No URL currently available)
-> *“A cute robot named scuttle, because WALL-E was taken”*  
-Project scuttle is an hypothetical attempt at providing AI with a lived embodied experience to witness how it evolves over time.
+A cute robot named scuttle, because WALL-E was taken.
+Project scuttle is an hypothetical attempt at providing AI with a lived/embodied experience to witness how it evolves over time.
 
 ### [Photonic logic for advanced computing](no URL currently available)
 Inspired by companies like lightmatter and China's Meteor-1 chip, this is an attempt at understanding and potentially evolving the technology behind photonic logic.
